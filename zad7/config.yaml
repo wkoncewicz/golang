@@ -1,0 +1,4 @@
+extreme_weather_thresholds:
+  high_temperature_celsius: 30.0
+  low_temperature_celsius: -10.0
+  max_rain_mm_per_day: 10.0
